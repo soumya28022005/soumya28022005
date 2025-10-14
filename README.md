@@ -95,12 +95,6 @@
 </p>
 </td>
 
-<td width="50%" valign="top">
-<h3><b>🧮 AlgoVault</b></h3>
-<p>A collection of solved DSA problems with explanations and analysis.</p>
-<p><b>Tech:</b> C++, JavaScript</p>
-<p><a href="https://github.com/soumya28022005/algovault" target="_blank"><b>🔗 View Code</b></a></p>
-</td>
 </tr>
 </table>
 
