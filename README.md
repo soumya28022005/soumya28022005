@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/150722293?v=4" alt="Soumya Chatterjee" width="200" height="200" style="border-radius:50%; object-fit:cover; border:4px solid #00A8CC;"/>
+  <img src="https://raw.githubusercontent.com/soumya28022005/soumya28022005/main/soumya.jpg" 
+     alt="Soumya Chatterjee" 
+     width="200" height="200" 
+     style="border-radius:50%; object-fit:cover; border:4px solid #00A8CC;"/>
   <h1><b>Hey there, I'm Soumya Chatterjee!</b> 👋</h1>
   <h3>A passionate Full Stack Developer from Durgapur, India 🇮🇳</h3>
   <p>I specialize in building robust and scalable web applications. I love turning complex problems into elegant, user-friendly designs and writing clean, maintainable code.</p>
