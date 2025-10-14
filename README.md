@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://i.ibb.co/L542d9N/image_5ff1db.jpg" alt="Soumya Chatterjee" width="200" height="200" style="border-radius:50%; object-fit: cover; border: 4px solid #00A8CC;"/>
+<img src="./soumya" alt="Soumya Chatterjee" width="200" height="200" style="border-radius:50%; object-fit: cover; border: 4px solid #00A8CC;"/>
 <h1><b>Hey there, I'm Soumya Chatterjee!</b> 👋</h1>
 <h3>A passionate Full Stack Developer from Durgapur, India 🇮🇳</h3>
 <p>I specialize in building robust and scalable web applications and I love turning complex problems into simple, beautiful, and intuitive designs.</p>
