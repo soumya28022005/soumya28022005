@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/soumya28022005/soumya28022005/main/soumya.jpg](https://github.com/soumya28022005/soumya28022005/commit/3aade46a2818fd9304bc3edb0423f2bad8645a70)" 
+  <img src="https://github.com/soumya28022005/soumya28022005/blob/3aade46a2818fd9304bc3edb0423f2bad8645a70/Soumya.jpeg" 
      alt="Soumya Chatterjee" 
      width="200" height="200" 
      style="border-radius:50%; object-fit:cover; border:4px solid #00A8CC;"/>
