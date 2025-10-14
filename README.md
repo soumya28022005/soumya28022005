@@ -8,10 +8,10 @@
     <a href="https://www.linkedin.com/in/soumya-chatterjee-76754a2b2/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://soumya-chatterjee-portfolio.netlify.app/" target="_blank">
+    <a href="https://soumyachatterjee.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%2300A8CC.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://www.instagram.com/" target="_blank">
+    <a href="https://www.instagram.com/soumyachatterjee051/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="mailto:soumyachatterjee2802@gmail.com">
@@ -27,26 +27,26 @@
 <div align="center">
 
 ### 🧠 Languages
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 ### 🎨 Frontend Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 ### ⚙️ Backend Development
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=ejs&logoColor=white"/>
 
 ### 🗄️ Databases & APIs
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02A8F3?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02A8F3?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </div>
 
@@ -55,9 +55,9 @@
 ## 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumya28022005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Soumya's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya28022005&theme=tokyonight&hide_border=true" alt="Soumya's GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya28022005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soumya28022005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya28022005&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya28022005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
 </div>
 
 ---
@@ -68,27 +68,23 @@
 <tr>
 <td width="50%" valign="top">
 <h3><b>🩺 Med-Connect: Clinic Appointment System</b></h3>
-<p>A full-stack web app for managing clinics efficiently with separate portals for Admins, Doctors, Patients, and Receptionists. Includes live queue management, appointment booking, and multi-clinic support.</p>
+<p>A full-stack web app for managing clinics efficiently with separate portals for Admins, Doctors, Patients, and Receptionists.</p>
 <p><b>Tech:</b> Node.js, Express.js, EJS, PostgreSQL, CSS</p>
-<p>
-<a href="https://github.com/soumya28022005/doctor_name" target="_blank"><b>🔗 View Code</b></a>
-</p>
+<p><a href="https://github.com/soumya28022005/doctor_name" target="_blank"><b>🔗 View Code</b></a></p>
 </td>
 
 <td width="50%" valign="top">
 <h3><b>🏦 Digital Bank API & Frontend</b></h3>
-<p>A full-stack digital banking simulation with a secure API and frontend UI. Features account creation, transaction history, deposits, withdrawals, and password-protected access.</p>
+<p>A full-stack digital banking simulation with secure API and frontend UI.</p>
 <p><b>Tech:</b> Node.js, Express.js, EJS, REST API</p>
-<p>
-<a href="https://github.com/soumya28022005/digital_bank" target="_blank"><b>🔗 View Code</b></a>
-</p>
+<p><a href="https://github.com/soumya28022005/digital_bank" target="_blank"><b>🔗 View Code</b></a></p>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 <h3><b>💊 Doctor Appointment Frontend</b></h3>
-<p>A responsive, user-friendly frontend interface for a doctor's appointment booking system. Built with HTML, CSS, and JavaScript to demonstrate dynamic UI and responsive layout.</p>
+<p>Responsive, user-friendly frontend for doctor appointment booking.</p>
 <p><b>Tech:</b> HTML, CSS, JavaScript</p>
 <p>
 <a href="https://github.com/soumya28022005/soumya_doctor_frontend" target="_blank"><b>🔗 View Code</b></a> |
@@ -98,11 +94,9 @@
 
 <td width="50%" valign="top">
 <h3><b>🧮 AlgoVault</b></h3>
-<p>A collection of solved algorithm and data structure problems implemented in C++ and JavaScript with explanations and time complexity analysis.</p>
+<p>A collection of solved DSA problems with explanations and analysis.</p>
 <p><b>Tech:</b> C++, JavaScript</p>
-<p>
-<a href="https://github.com/soumya28022005/algovault" target="_blank"><b>🔗 View Code</b></a>
-</p>
+<p><a href="https://github.com/soumya28022005/algovault" target="_blank"><b>🔗 View Code</b></a></p>
 </td>
 </tr>
 </table>
