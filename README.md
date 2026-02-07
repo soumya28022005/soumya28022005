@@ -8,7 +8,7 @@
   <h3>🚀 Full Stack Developer | 💻 Problem Solver | 🌐 Building Scalable Solutions</h3>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;100%2B+DSA+Problems+Solved;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;100%2B+DSA+Problems+Solved;Building+Scalable+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
   </p>
 
   <p>
@@ -25,8 +25,6 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=soumya28022005&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
