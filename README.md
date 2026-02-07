@@ -90,37 +90,58 @@ const soumya = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=soumya28022005&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumya28022005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya28022005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="180"/>
-</div>
-
----
-
 ## 🏆 LeetCode & Problem Solving
 
 <div align="center">
   
 [![LeetCode](https://img.shields.io/badge/LeetCode_Profile-100+_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/soumya_chatterjee051/)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/soumya_chatterjee051?theme=dark&font=Sura&ext=heatmap)
+
 ### 💪 My DSA Journey
 
-| Metric | Achievement |
-|--------|-------------|
-| 🎯 Problems Solved | **100+** |
-| 🔥 Current Focus | Arrays, Strings, Dynamic Programming |
-| 📈 Next Milestone | 200 Problems |
-| 💡 Favorite Topic | Problem Solving & Optimization |
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Total_Solved-100+-00D9FF?style=for-the-badge" />
+<br><b>🎯 Problems Solved</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Easy-40+-5CB85C?style=for-the-badge" />
+<br><b>✅ Easy Problems</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Medium-50+-F0AD4E?style=for-the-badge" />
+<br><b>⚡ Medium Problems</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Hard-10+-D9534F?style=for-the-badge" />
+<br><b>🔥 Hard Problems</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Next_Goal-200-FF6D00?style=for-the-badge" />
+<br><b>📈 Next Milestone</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Focus-Arrays_&_DP-00D9FF?style=for-the-badge" />
+<br><b>🔥 Current Focus</b>
+</td>
+</tr>
+</table>
 
-**🔗 Check out my LeetCode profile:** [soumya_chatterjee051](https://leetcode.com/u/soumya_chatterjee051/)
+### 📊 Problem Difficulty Breakdown
+
+| Difficulty | Solved | Progress |
+|------------|---------|----------|
+| 🟢 **Easy** | 40+ | ████████░░ 40% |
+| 🟡 **Medium** | 50+ | ██████████ 50% |
+| 🔴 **Hard** | 10+ | ██░░░░░░░░ 10% |
+
+**💡 Topics Mastered:** Arrays, Strings, Hash Tables, Two Pointers  
+**🎯 Currently Learning:** Dynamic Programming, Trees, Graphs  
+**🔗 LeetCode Profile:** [soumya_chatterjee051](https://leetcode.com/u/soumya_chatterjee051/)
 
 </div>
 
@@ -130,6 +151,34 @@ const soumya = {
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top">
+
+### 🧠 Emotion-Aware AI Companion
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumya28022005/emotion-ai-companion)
+
+**An empathetic AI that detects facial emotions and provides compassionate responses**
+
+**Features:**
+- 😊 Real-time facial emotion detection using face-api.js
+- 💬 Sentiment analysis of text messages
+- 🎯 Emotion mismatch detection (when face != text)
+- 📊 Emotional pattern tracking & insights
+- 🎤 Voice input support
+- 📈 Daily emotion summaries
+
+**Tech Stack:** 
+- Node.js, Express.js
+- face-api.js, Web Speech API
+- PostgreSQL
+- Vanilla JavaScript, CSS3
+
+**Highlights:**
+- Detects when users hide their true feelings
+- Provides empathetic, context-aware responses
+- Tracks emotional volatility over time
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 🩺 Med-Connect: Clinic Appointment System
@@ -150,7 +199,9 @@ const soumya = {
 - CSS3
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🏦 Digital Bank API & Frontend
@@ -171,10 +222,8 @@ const soumya = {
 - Modern UI/UX
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2" align="center" valign="top">
+<td width="50%" valign="top">
 
 ### 💊 Doctor Appointment Frontend
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumya28022005/soumya_doctor_frontend)
@@ -182,9 +231,14 @@ const soumya = {
 
 **Responsive doctor appointment booking interface**
 
-**Features:** 📱 Fully Responsive | 🎨 Modern UI/UX | ⚡ Fast Performance | 🔍 Easy Booking
+**Features:** 
+- 📱 Fully Responsive 
+- 🎨 Modern UI/UX 
+- ⚡ Fast Performance 
+- 🔍 Easy Booking
 
-**Tech Stack:** HTML5, CSS3, JavaScript
+**Tech Stack:** 
+- HTML5, CSS3, JavaScript
 
 </td>
 </tr>
@@ -201,7 +255,7 @@ const soumya = {
 | 🎯 Solve 500+ DSA problems on LeetCode | 🔄 In Progress (100+/500) |
 | 🚀 Master React.js | 📝 Planned |
 | 🔧 Contribute to Open Source | 📝 Planned |
-| 📱 Build 5 more Full-Stack Projects | 🔄 In Progress (3/5) |
+| 📱 Build 5 more Full-Stack Projects | 🔄 In Progress (4/5) |
 | 🏆 Participate in Hackathons | 📝 Upcoming |
 | 💼 Land a Software Developer Role | 🎯 Primary Goal |
 
