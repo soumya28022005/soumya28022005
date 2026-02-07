@@ -154,7 +154,7 @@ const soumya = {
 <td width="50%" valign="top">
 
 ### 🧠 Emotion-Aware AI Companion
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumya28022005/emotion-ai-companion)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumya28022005/face-ditection-ai)
 
 **An empathetic AI that detects facial emotions and provides compassionate responses**
 
